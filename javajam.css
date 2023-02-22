@@ -1,6 +1,10 @@
-body { background-color: #FCEBB6;
-       color: #221811;
-	   font-family: Tahoma, Arial, sans-serif; 
+body { 	background-color: #FCEBB6;
+	background-image: url(fadedroad50.jpg);
+	
+	
+	
+       	color: #221811;
+	font-family: Tahoma, Arial, sans-serif; 
 }
 #wrapper { background-color: #FEFAEB;
            margin-left: auto;
